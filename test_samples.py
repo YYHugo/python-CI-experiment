@@ -8,7 +8,7 @@ def sub(a, b):
   return a-b
 
 def div(a, b):
-  return a
+  return a/b
 
 def test_answer():
   assert inc(3) == 4
